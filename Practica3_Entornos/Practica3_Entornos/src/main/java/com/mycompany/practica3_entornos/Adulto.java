@@ -5,7 +5,7 @@
 package com.mycompany.practica3_entornos;
 
 /**
- *
+ * Refactorizacion del codigo 
  * @author Abril y Edgar
  */
 public class Adulto extends Persona{
