@@ -5,7 +5,7 @@
 package com.mycompany.practica3_entornos;
 
 /**
- *
+ *Refactorizamos Mascota en la rama desarrollo
  * @author Abril y Edgar
  */
 public abstract class Mascota implements Sonido{

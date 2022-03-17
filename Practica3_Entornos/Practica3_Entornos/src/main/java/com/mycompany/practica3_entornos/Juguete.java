@@ -5,7 +5,7 @@
 package com.mycompany.practica3_entornos;
 
 /**
- *
+ * Refactorizamos Juguete en la rama desarrollo
  * @author Abril y Edgar
  */
 public class Juguete extends Niño{
