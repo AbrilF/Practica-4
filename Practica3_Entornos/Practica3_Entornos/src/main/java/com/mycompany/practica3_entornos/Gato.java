@@ -5,7 +5,7 @@
 package com.mycompany.practica3_entornos;
 
 /**
- *
+ *Refactorizacion Gato del codigo
  * @author Abril y Edgar
  */
 public class Gato extends Mascota{
